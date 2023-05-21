@@ -108,7 +108,7 @@
     color: white;
 }
 .sec4{
-    background-color: navy;
+    background-color: #002970;
     text-align: center;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -222,11 +222,11 @@
     font-size: 40px;
 }
 #app3{
-    border:1px solid navy;
+    border:1px solid #002970;
     width:20%;
     border-radius: 23px;
     padding:2%;
-    background-color: navy;
+    background-color: #002970;
     color:white;
     font-size:17px;
     margin-left: 4%;
@@ -253,6 +253,9 @@
     margin-right:7%;
     margin-bottom:0%;
 }
+
+/* <sir code> */
+
 .sec11{
 	display: flex;
 	justify-content:space-around;
@@ -590,5 +593,3 @@
 .Last:after {
     background: #002970;
 }
-
-
